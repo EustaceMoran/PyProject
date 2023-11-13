@@ -1,0 +1,5 @@
+pip~=23.3.1
+setuptools~=65.5.0
+SQLAlchemy~=2.0.23
+fastapi~=0.104.1
+pydantic~=2.4.2
